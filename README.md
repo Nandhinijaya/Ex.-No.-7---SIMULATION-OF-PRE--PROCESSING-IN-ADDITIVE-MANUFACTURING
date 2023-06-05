@@ -42,26 +42,33 @@
 ### CAD FILE PREPARATION:
 
 ![CAD](https://github.com/Nandhinijaya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121998147/1dcd2f8a-5f25-4560-9a71-074a3e736a65)
+
 strong base is suggested : Having a strong base or foundation is essential in the preprocessing stage for 3D printing because it helps ensure the stability and integrity of the printed object throughout the printing process
 
 round corners should be made : Sharp corners can act as stress concentration points, making the printed object more susceptible to failure or breakage. By rounding the corners, you distribute the stress more evenly across the object, reducing the likelihood of structural issues.
 
 wall thickness should be appropraite : By ensuring an appropriate wall thickness during preprocessing, you can achieve a balance between structural integrity, printability, and material considerations. This leads to a successful 3D print with the desired strength, accuracy, and functionality.
+
 ### CONVERSION TO STL:
 ![C T STL](https://github.com/Nandhinijaya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121998147/250d4c5e-7f10-45d6-a962-b5e4d8ba2edc)
+
 coding of stl files : coding for STL file preprocessing empowers you with greater control, efficiency, and flexibility in preparing 3D models for printing. It enables automation, customization, and scalability while ensuring consistency and integration within your 3D printing workflow.
+
 ### ORIENTATION:
 ![ORIENTATION](https://github.com/Nandhinijaya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121998147/c7364503-f00a-4605-9b47-584ebddb7ad8)
+
 printing verticlly upward and printing horizontolly in 3d printing : Vertical surfaces generally have better surface finish compared to horizontal surfaces, as the layers are stacked vertically, reducing the visibility of individual layer lines.
 
 ### SUPPORT STRUCTURE:
 ![SSUPPORT](https://github.com/Nandhinijaya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121998147/7e2c9a46-b8fc-4211-a24a-135ce0a8b9f5)
+
 part with support : A "part with support" in the preprocessing stage of 3D printing refers to a 3D model that requires the addition of support structures to ensure successful and accurate printing of certain features
 
 part without support : A "part without support" in the preprocessing stage of 3D printing refers to a 3D model that does not require the addition of support structures during the printing process. In other words, the design of the part is such that all features can be printed without the need for additional support material.
 
 ### SLICING:
 ![SLICING](https://github.com/Nandhinijaya/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121998147/382e8e71-d891-491f-923e-ce710008c17b)
+
 Uniform slicing : also known as uniform layer height or uniform layer thickness, refers to a preprocessing technique in 3D printing where the model is sliced into layers of consistent thickness throughout the entire object
 
 Adaptive slicing : It is a preprocessing technique in 3D printing where the layer thickness varies throughout the object based on the geometry and level of detail required. Instead of using a uniform layer thickness, adaptive slicing adjusts the layer thickness dynamically to optimize the print quality and printing time
